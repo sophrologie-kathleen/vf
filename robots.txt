@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sophrologie-kathleen.netlify.app/sitemap.xml
